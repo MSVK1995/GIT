@@ -1,0 +1,5 @@
+{
+    "emailTemplate" : {
+        "clonebutton": "clone button {0}"
+    }
+}
