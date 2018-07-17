@@ -26,7 +26,6 @@ Mkt3L10n.lobEditor = {
     name_of_this_form: "name of this form",
     Description: "Description",
     your_noteson_this_form: "your notes on this form",
-    Layout: "Layout",
     How_the_labels_and_fields_are_arranged_in_this_form: "How the labels and fields are arranged in this form",
     Hello: "Hello",
     Discount: "Discount"
