@@ -1,0 +1,24 @@
+From 192121662a03b9ea839d5405d607e7dd19b9e93b Mon Sep 17 00:00:00 2001
+From: "vikas.kumar4" <vikas.kumar4@BLR1-MAC-N03254.local>
+Date: Wed, 11 Jul 2018 15:36:14 +0530
+Subject: [PATCH 2/2] added myfile.json
+
+---
+ myfile.js | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/myfile.js b/myfile.js
+index 4d0c2ef..1fd230b 100644
+--- a/myfile.js
++++ b/myfile.js
+@@ -29,4 +29,5 @@ Mkt3L10n.lobEditor = {
+     Layout: "Layout",
+     How_the_labels_and_fields_are_arranged_in_this_form: "How the labels and fields are arranged in this form",
+     Hello: "Hello"
+-};  
+\ No newline at end of file
++};  
++
+-- 
+2.15.1 (Apple Git-101)
+

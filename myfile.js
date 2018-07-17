@@ -28,6 +28,7 @@ Mkt3L10n.lobEditor = {
     your_noteson_this_form: "your notes on this form",
     Layout: "Layout",
     How_the_labels_and_fields_are_arranged_in_this_form: "How the labels and fields are arranged in this form",
-    Hello: "Hello"
+    Hello: "Hello",
+    Discount: "Discount"
 };  
 
