@@ -29,7 +29,6 @@ Mkt3L10n.lobEditor = {
     How_the_labels_and_fields_are_arranged_in_this_form: "How the labels and fields are arranged in this form",
     Discount: "Discount",
     Hello: "Hello",
-    Files: "Files",
-    Banner: "Banner"
+    Files: "Files"
 };  
 
