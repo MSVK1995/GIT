@@ -32,6 +32,8 @@ Mkt3L10n.lobEditor = {
     Files: "Files",
     Store: "Store",
     Banner: "Banner",
-    Statistic: "Statistic"
+    Statistic: "Statistic",
+    Home: "Home",
+    Last: "Last"
 };  
 
