@@ -35,6 +35,7 @@ Mkt3L10n.lobEditor = {
     Statistic: "Statistic",
     List: "List",
     Last: "Last",
-    Home: "Home"
+    Home: "Home",
+    Sales : "Sales"
 };  
 
