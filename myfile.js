@@ -38,7 +38,7 @@ Mkt3L10n.lobEditor = {
     Home: "Home",
     Sales : "Sales",
     Mobile: "Mobile",
-    Page: "user page",
+    Page: "User Page",
     Logs: "Logs"
 };  
 
