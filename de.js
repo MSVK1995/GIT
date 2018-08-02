@@ -36,8 +36,10 @@ Mkt3L10n.lobEditor = {
     List: "List",
     Last: "Last",
     Home: "Home",
-    Sales : "Der Umsatz",
+    Sales : "Sales",
     Mobile: "Mobile",
-    Page: "User page"
-};  
-
+    Page: "Custom Page",
+    Logs: "Logs",
+    Template: "Template",
+    Button: "Confirm button"
+};
