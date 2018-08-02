@@ -38,8 +38,9 @@ Mkt3L10n.lobEditor = {
     Home: "Home",
     Sales : "Sales",
     Mobile: "Mobile",
-    Page: "User Page",
+    Page: "Custom Page",
     Logs: "Logs",
-    Template: "Template"
+    Template: "Template",
+    Button: "Confirm button"
 };  
 
