@@ -39,6 +39,7 @@ Mkt3L10n.lobEditor = {
     Sales : "Sales",
     Mobile: "Mobile",
     Page: "User Page",
-    Logs: "Logs"
+    Logs: "Logs",
+    Template: "Template"
 };  
 
