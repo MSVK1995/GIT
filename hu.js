@@ -92,5 +92,6 @@
     "moveToFolder": ":Move to Folder:",
     "rename": ":Rename:",
     "clone": ":Clone:",
-    "createNew": ":Create New:"
+    "createNew": ":Create New:",
+    "landingPage": "Landing Page"
   };

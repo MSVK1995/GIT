@@ -92,5 +92,6 @@
     "moveToFolder": "Mover para a pasta",
     "rename": "Renomear",
     "clone": "Clonar",
-    "createNew": "Criar novo"
+    "createNew": "Criar novo",
+    "landingPage": "Landing Page"
   };

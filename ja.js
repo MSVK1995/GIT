@@ -92,5 +92,6 @@
     "moveToFolder": "フォルダに移動",
     "rename": "名前変更",
     "clone": "複製",
-    "createNew": "新規作成"
+    "createNew": "新規作成",
+    "landingPage": "Landing Page"
   };

@@ -92,5 +92,6 @@
     "moveToFolder": "Déplacer vers le dossier",
     "rename": "Renommer",
     "clone": "Cloner",
-    "createNew": "Créer nouveau"
+    "createNew": "Créer nouveau",
+    "landingPage": "Landing Page"
   };

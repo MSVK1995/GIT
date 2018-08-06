@@ -92,5 +92,6 @@
     "moveToFolder": "à_Move to Folder_海",
     "rename": "à_Rename_海",
     "clone": "à_Clone_海",
-    "createNew": "à_Create New_海"
+    "createNew": "à_Create New_海",
+    "landingPage": "Landing Page"
   };
