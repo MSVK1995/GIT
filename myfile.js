@@ -41,6 +41,7 @@ Mkt3L10n.lobEditor = {
     Page: "Custom Page",
     Logs: "Logs",
     Template: "Template",
-    Button: "Confirm button"
+    Button: "Confirm button",
+    Admin: "Admin account"
 };  
 
