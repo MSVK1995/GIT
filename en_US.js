@@ -93,5 +93,6 @@
     "rename": "Rename",
     "clone": "Clone",
     "createNew": "Create New",
-    "landingPage": "Landing Page"
+    "landingPage": "Landing Page",
+    "cloud": "GCP"
   };
