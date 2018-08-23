@@ -2448,7 +2448,7 @@
     "email": "メール",
     "viewPermissions": "権限を表示",
     "logout": "ログアウト",
-    "customer": "customer",
-    "visits": "visits"
+    "customer":  "顧客",
+    "visits":  "訪問"
   }
 }

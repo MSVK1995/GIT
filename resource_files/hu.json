@@ -2448,7 +2448,7 @@
     "email": ":Email:",
     "viewPermissions": ":View Permissions:",
     "logout": ":Logout:",
-    "customer": "customer",
-    "visits": "visits"
+    "customer":  "vevő",
+    "visits":  "látogatók"
   }
 }

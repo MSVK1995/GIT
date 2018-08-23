@@ -2448,7 +2448,7 @@
     "email": "E-mail",
     "viewPermissions": "Afficher les autorisations",
     "logout": "déconnexion",
-    "customer": "customer",
-    "visits": "visits"
+    "customer":  "client",
+    "visits":  "visites"
   }
 }
